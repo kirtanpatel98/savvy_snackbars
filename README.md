@@ -15,7 +15,7 @@ and the Flutter guide for
 
 ## Features
 
-![](https://github.com/kirtanpatel98/savvy_snackbars/blob/main/savvy_snackbars.gif)
+![](https://github.com/kirtanpatel98/savvy_snackbars/raw/main/savvy_snackbars.gif)
 
 #### This package provides an easy-to-use snackbar component that can be quickly integrated into your application.
 
