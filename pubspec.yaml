@@ -1,5 +1,5 @@
 name: savvy_snackbars
-description: "A new Flutter package project."
+description: "A simple, customizable Snackbar with optional loading indicators."
 version: 0.0.1
 homepage: https://github.com/kirtanpatel98/savvy_snackbars
 
