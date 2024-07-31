@@ -18,6 +18,8 @@ know whether this package might be useful for them.
 
 ## Features
 
+![](https://github.com/kirtanpatel98/savvy_snackbars/blob/main/savvy_snackbars.gif)
+
 #### This package provides an easy-to-use snackbar component that can be quickly integrated into your application.
 
 #### It offers a wide range of customization features, allowing you to tailor the snackbar's appearance and behavior to suit your specific needs.
