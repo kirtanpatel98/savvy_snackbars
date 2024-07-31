@@ -5,8 +5,7 @@ this README's contents appear on the landing page for your package.
 For information about how to write a good package README, see the guide for
 [writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
 
-For general information about developing packages, see![WhatsApp Image 2024-07-29 at 6 04 20 PM](https://github.com/user-attachments/assets/9416a107-a663-49ec-ac01-8108f7bfe5c9)
- the Dart guide for
+For general information about developing packages, see the Dart guide for
 [creating packages](https://dart.dev/guides/libraries/create-library-packages)
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
@@ -189,4 +188,5 @@ from the package authors, and more.
 ```
 
 ```
+
 # savvy_snackbars
