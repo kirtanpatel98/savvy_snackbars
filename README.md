@@ -120,7 +120,7 @@ SavvySnackBars.showCustomSnackBar(
     );
 ```
 
-### A snackbar featuring a loading animation while a network call is in progress
+### A snackbar featuring a loading animation while a network call is in progress.
 
 ```dart
 SavvySnackBars.showCustomSnackBar(
